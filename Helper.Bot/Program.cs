@@ -1,4 +1,4 @@
-﻿using Bot.Template.HostedServices;
+﻿using Helper.Bot.HostedServices;
 using Discord;
 using Discord.Interactions;
 using Discord.WebSocket;
